@@ -1,0 +1,177 @@
+[02-Jan-2020 03:01:45] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[02-Jan-2020 03:03:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[02-Jan-2020 03:06:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/session.php on line 4
+[02-Jan-2020 03:06:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/logout.php on line 13
+[02-Jan-2020 03:08:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/viamare/public_html/ordering/dbcontroller.php on line 14
+[02-Jan-2020 17:08:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/viamare/public_html/ordering/dbcontroller.php:14) in /home2/viamare/public_html/ordering/session.php on line 4
+[02-Jan-2020 17:08:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/viamare/public_html/ordering/dbcontroller.php on line 19
+[02-Jan-2020 17:08:08] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/viamare/public_html/ordering/dbcontroller.php on line 20
+[02-Jan-2020 03:15:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/session.php on line 4
+[02-Jan-2020 03:15:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/logout.php on line 13
+[02-Jan-2020 18:20:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/session.php on line 4
+[02-Jan-2020 18:20:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/logout.php on line 13
+[02-Jan-2020 23:27:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/session.php on line 4
+[02-Jan-2020 23:27:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/logout.php on line 13
+[02-Jan-2020 23:28:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/session.php on line 4
+[02-Jan-2020 23:28:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/logout.php on line 13
+[02-Jan-2020 23:29:34] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home2/viamare/public_html/ordering/logout.php on line 7
+[02-Jan-2020 23:29:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/logout.php on line 13
+[03-Jan-2020 13:29:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/session.php:55) in /home2/viamare/public_html/ordering/header.php on line 7
+[02-Jan-2020 23:29:59] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home2/viamare/public_html/ordering/logout.php on line 7
+[02-Jan-2020 23:29:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/logout.php on line 13
+[02-Jan-2020 23:30:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/session.php on line 4
+[02-Jan-2020 23:30:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/viamare/public_html/ordering/logout.php:2) in /home2/viamare/public_html/ordering/logout.php on line 13
+[27-Feb-2020 17:30:45] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home2/viamare/public_html/ordering/history_view.php on line 100
+[27-Feb-2020 18:22:24] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home2/viamare/public_html/ordering/history_view.php on line 103
+[15-May-2020 17:50:30 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:132
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 132
+[15-May-2020 17:50:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:132
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 132
+[15-May-2020 17:52:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:132
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 132
+[15-May-2020 17:52:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:132
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 132
+[15-May-2020 17:52:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:132
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 132
+[15-May-2020 17:53:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:132
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 132
+[15-May-2020 17:53:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:132
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 132
+[15-May-2020 17:56:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:133
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 133
+[15-May-2020 17:56:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:133
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 133
+[15-May-2020 17:57:01 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:133
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 133
+[15-May-2020 17:57:03 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home2/viamare/public_html/ordering/order_detail_view.php:133
+Stack trace:
+#0 {main}
+  thrown in /home2/viamare/public_html/ordering/order_detail_view.php on line 133
+[09-Jun-2020 08:54:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 03:54:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[09-Jun-2020 09:02:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 04:02:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[09-Jun-2020 09:02:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 04:02:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[09-Jun-2020 09:02:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 04:02:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/reports_view.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[09-Jun-2020 09:03:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 04:03:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/reports_view.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[09-Jun-2020 09:04:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 04:04:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/reports_view.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[09-Jun-2020 09:23:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 04:23:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[09-Jun-2020 09:25:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 04:25:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[10-Jun-2020 00:23:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 19:23:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[10-Jun-2020 01:56:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 20:56:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[10-Jun-2020 01:56:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 20:56:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[10-Jun-2020 02:02:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 21:02:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[10-Jun-2020 02:54:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 21:54:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/login.php(2): include_once()
+#1 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[10-Jun-2020 02:54:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 21:54:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/login.php(2): include_once()
+#1 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[10-Jun-2020 02:55:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Jun-2020 21:55:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/login.php(2): include_once()
+#1 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
+[09-Jun-2020 22:58:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/viamare/public_html/ordering/database/db_config.php:11
+Stack trace:
+#0 /home2/viamare/public_html/ordering/header.php(2): include_once()
+#1 /home2/viamare/public_html/ordering/index.php(3): include_once('/home2/viamare/...')
+#2 {main}
+  thrown in /home2/viamare/public_html/ordering/database/db_config.php on line 11
